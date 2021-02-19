@@ -1,0 +1,12 @@
+R E S U L T S
+
+a3 b3 c3 
+a2 b2 c2 
+a1 b1 c1 
+
+Startfeld a1
+Klassische Variante 
+2 Lösungen
+08:14:35 bis 08:14:35
+a1 c2 a3 b1 c3 a2 c1 b3 Geschlossen
+a1 b3 c1 a2 c3 b1 a3 c2 Geschlossen

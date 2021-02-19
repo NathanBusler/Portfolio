@@ -1,0 +1,22 @@
+R E S U L T S
+
+a5 b5 c5 d5 e5 
+a4 b4 c4 d4 e4 
+a3 b3 c3 d3 e3 
+a2 b2 c2 d2 e2 
+a1 b1 c1 d1 e1 
+
+Startfeld e3
+Klassische Variante 
+56 Lösungen
+12:06:25 bis 12:06:28
+e3 d5 c3 d1 b2 a4 c5 e4 d2 b1 a3 b5 d4 e2 c1 a2 b4 d3 e5 c4 a5 b3 a1 c2 e1 Offen
+e3 d5 c3 d1 b2 a4 c5 e4 d2 b1 a3 b5 d4 e2 c1 a2 b4 d3 e1 c2 a1 b3 a5 c4 e5 Offen
+e3 d5 c3 d1 b2 a4 c5 e4 d2 b1 a3 b5 d4 e2 c1 a2 b4 c2 e1 d3 e5 c4 a5 b3 a1 Offen
+e3 d5 c3 d1 b2 a4 c5 e4 d2 b1 a3 b5 d4 e2 c1 a2 b4 c2 a1 b3 a5 c4 e5 d3 e1 Offen
+e3 d5 b4 a2 c3 d1 b2 a4 c5 e4 d2 b1 a3 b5 d4 e2 c1 d3 e5 c4 a5 b3 a1 c2 e1 Offen
+e3 d5 b4 a2 c3 d1 b2 a4 c5 e4 d2 b1 a3 b5 d4 e2 c1 d3 e1 c2 a1 b3 a5 c4 e5 Offen
+e3 d5 b4 a2 c3 d1 b2 a4 c5 e4 d2 b1 a3 b5 d4 e2 c1 b3 a5 c4 e5 d3 e1 c2 a1 Offen
+e3 d5 b4 a2 c3 d1 b2 a4 c5 e4 d2 b1 a3 b5 d4 e2 c1 b3 a1 c2 e1 d3 e5 c4 a5 Offen
+e3 d5 b4 a2 c1 e2 d4 b5 c3 d1 b2 a4 c5 e4 d2 b1 a3 c4 e5 d3 e1 c2 a1 b3 a5 Offen
+e3 d5 b4 a2 c1 e2 d4 b5 c3 d1 b2 a4 c5 e4 d2 b1 a3 c4 a5 b3 a1 c2 e1 d3 e5 Offen
