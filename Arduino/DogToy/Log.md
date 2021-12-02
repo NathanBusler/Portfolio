@@ -1,6 +1,11 @@
 Log
 ===
 
+TODO
+----
+
+- Design Food dispenser mechanism
+- Establish bluetooth connection to Arduino Nano
 
 2 Dec 2021
 ----------
