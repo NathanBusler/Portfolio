@@ -4,8 +4,13 @@ Log
 TODO
 ----
 
-- Design Food dispenser mechanism
 - Establish bluetooth connection to Arduino Nano
+
+5 Dec 2021
+----------
+
+- Design Food dispenser mechanism
+- One piece of Food is roughly 2cm Ø -> Funnel hole should be greater than 4cm
 
 2 Dec 2021
 ----------
