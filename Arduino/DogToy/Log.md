@@ -6,6 +6,12 @@ TODO
 
 - Establish bluetooth connection to Arduino Nano
 
+6 Dec 2021
+----------
+
+- Blink two LEDs alternating
+- Blink one LED
+
 5 Dec 2021
 ----------
 
